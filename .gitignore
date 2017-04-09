@@ -1,4 +1,5 @@
 Gemfile.lock
+*.png
 ### https://raw.github.com/github/gitignore/6a81bf03cfe0701b6ecd5d67da6f0ccf3ca99d75/rails.gitignore
 
 *.rbc
